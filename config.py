@@ -1,0 +1,6 @@
+TOKEN = "5236922855:AAFZVdYtPHUwlx6B_5jMTBF_IoTLr8xb2w8"
+URL_LINGUAMARINA = "https://www.instagram.com/linguamarina/?hl=en"
+URL_lUCY = "https://www.youtube.com/c/EnglishwithLucy"
+URL_BBC = "https://www.youtube.com/results?search_query=BBC+LEARNING+ENGLISH+"
+URL_TED = "https://www.youtube.com/watch?v=FrqBWQ-mVEc"
+URL_TV = "https://www.youtube.com/results?search_query=LEARN+ENGLISH+WITH+TV+SERIES"
